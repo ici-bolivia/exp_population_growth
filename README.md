@@ -11,7 +11,8 @@ For further details on the background of this work we refer to the corresponding
 
 ## References
 
-Herzog, S.K., Bürger, J., Troncoso, A.J., Vargas, R.R., Boorsma, T., Soria-Auza, R.W., 2018. Deterministic population growth models and conservation translocation as a management strategy for the critically endangered Blue-throated Macaw (Ara glaucogularis): A critique of Maestri et al. Ecol. Model. xyz, 
+Herzog, S.K., Bürger, J., Troncoso, A.J., Vargas, R.R., Boorsma, T., Soria-Auza, R.W., 2018. Deterministic population growth models and conservation translocation as a management strategy for the critically endangered Blue-throated Macaw (Ara glaucogularis): A critique of Maestri et al. Ecol. Model. xyz, https://doi.org/10.1016/j.ecolmodel.2018.06.007
+
 
 Maestri, M.L., Ferrati, R., Berkunsky, I., 2007. Evaluating management strategies in the conservation of the critically endangered Blue-throated Macaw (Ara glaucogularis). Ecol. Model. 361, 74-79. https://doi.org/10.1016/j.ecolmodel.2017.07.023
 
